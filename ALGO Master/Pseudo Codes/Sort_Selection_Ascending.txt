@@ -1,0 +1,5 @@
+Selection Sort
+FOR(i=0; i<n-1; i++)
+	FOR(j=i+1; j<n; j++) 
+		IF a[i] > a[j]
+			SWAP(a[i], a[j])

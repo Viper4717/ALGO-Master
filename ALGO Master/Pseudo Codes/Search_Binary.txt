@@ -1,0 +1,10 @@
+Binary Search
+WHILE low <= high
+	mid = (low + high) / 2
+	IF a[mid] == n
+		Found
+	ELSE IF a[mid] > n
+		high = mid-1
+	ELSE IF a[mid] < n
+		low = mid+1
+Not Found

@@ -1,0 +1,10 @@
+﻿  Source.cpp
+d:\learn\algo master\algo master\source.cpp(19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\learn\algo master\algo master\source.cpp(64): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\learn\algo master\algo master\source.cpp(64): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+d:\learn\algo master\algo master\source.cpp(57): warning C4101: 'cursorDelayTime': unreferenced local variable
+  ALGO Master.vcxproj -> D:\Learn\ALGO Master\Debug\ALGO Master.exe

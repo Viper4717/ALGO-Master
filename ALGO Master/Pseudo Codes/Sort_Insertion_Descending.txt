@@ -1,0 +1,4 @@
+Insertion Sort
+FOR(i=1; i<n; i++)
+	FOR(j=i-1; j>=0 AND a[j] < a[j+1]; j--)
+		SWAP(a[j], a[j+1]);

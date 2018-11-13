@@ -1,0 +1,6 @@
+Linear Search
+FOR(i=0; i<n; i++)
+	IF(a[i] == t)
+		Found
+		break
+Not Found

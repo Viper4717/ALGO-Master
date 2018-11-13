@@ -1,0 +1,13 @@
+Insertion Sort
+Click on a bar to select it.
+
+Click on the background to unselect the
+bar.
+
+Choose the pivot bar first, then select
+another bar to compare them.
+
+If you choose the wrong bars they will 
+become red and return to normal state.
+
+Choose the bars according to the algorithm.

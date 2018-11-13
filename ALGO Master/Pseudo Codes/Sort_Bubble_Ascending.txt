@@ -1,0 +1,5 @@
+Bubble Sort
+FOR(i=0; i<n; i++)
+	FOR(j=0; j<n-i-1; j++)
+		IF a[j] > a[j+1]
+			SWAP a[j], a[j+1]
