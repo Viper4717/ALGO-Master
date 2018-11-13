@@ -16,6 +16,6 @@ The objective of our project is to teach the basic algorithms to new programmers
 - Run *local windows debugger* in Visual Studio to run the program.
 
 ### User Manual
-Users should learn the algorithm by reading the pseudo code and try to relate it with the simulation on the left. If needed user can see each step by pausing and step forwarding each iteration or comparison. User can also evaluate his understanding of the algorithm in the practice section by doing the sort manually. There are instruction pannel int the right to guide how to practice each algorithms. We recommend to search some related problems in the internet and try to solve those for practice.
+Users should learn the algorithm by reading the pseudo code and try to relate it with the simulation on the left. If needed, users can see each step by pausing and step forwarding each iteration or comparison. Users can also evaluate his/her understanding of the algorithm in the practice section by doing the sort manually. There is an instruction panel in the right side to guide how to practice each algorithm. We recommend to search some related problems in the internet and try to solve those for further practice.
 
 
