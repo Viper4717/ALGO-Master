@@ -1,7 +1,7 @@
 # ALGO Master
 ALGO Master is a algorithm simulation software developed by Samin Yaser and A.M. Aahad two students of department of CSE University of Dhaka.
 
-###YouTube Link
+### YouTube Link
 [ALGO Master](https://youtu.be/8j8lCVnMhFQ)
 
 ### Summary
